@@ -14,7 +14,6 @@ def chatbot():
     print("Welcome to the climate aware chatbot!")
     print("What would you like to learn about today?")
 ​
-    # Main loop:
 while True:
     user_input = input("You: ").lower()
     if user_input in questions:

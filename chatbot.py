@@ -9,7 +9,7 @@ responses = [
     "You are welcome.",
     "Goodbye! Have a nice day."
 ]
-​
+
 
 def chatbot():
     print("Welcome to the climate aware chatbot!")

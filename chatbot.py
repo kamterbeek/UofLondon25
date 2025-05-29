@@ -10,7 +10,6 @@ responses = [
     "Goodbye! Have a nice day."
 ]
 
-
 def chatbot():
     print("Welcome to the climate aware chatbot!")
     print("What would you like to learn about today?")

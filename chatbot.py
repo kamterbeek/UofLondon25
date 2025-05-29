@@ -27,7 +27,6 @@ while True:
 ​
 chatbot()
 
-
 precepts = ["Hey, there!", "Bye"]
 responses = ["Hi!", "Goodbye!"]
 pattern_dict = zip(precepts, responses)
